@@ -240,7 +240,7 @@ After completing all TODOs, test your calculator:
       result = multiply(nums);
       break;
     case "divide":
-      result = divide([nums]);
+      result = divide(nums);
       break;
   }
 
